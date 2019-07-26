@@ -56,7 +56,7 @@ plotFaustGates <- function(cellPop,sampleName,projectPath=".") {
                   p,
                   base_height = 20,
                   base_width = 20)
-        return()
+        return(p)
     }
     else {
         return(NA)
